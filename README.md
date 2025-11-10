@@ -1,4 +1,4 @@
-# Random Password Generator – Firefox Extension
+# Random Password Generator
 
 A simple Firefox extension that generates secure passwords on demand.  
 
